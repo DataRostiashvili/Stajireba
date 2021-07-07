@@ -1,0 +1,277 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+<title>RSS NBG Currency Rates</title>
+<link>https://www.nbg.gov.ge/index.php?m=236&amp;lang=geo</link>
+<description>Currency Rates</description>
+<language>geo</language><copyright>Copyright 2021, NBG </copyright>
+<pubDate>Wed, 07 Jul 2021 14:54:47 +0400</pubDate>
+<lastBuildDate>Wed, 07 Jul 2021 14:54:47 +0400</lastBuildDate>
+<managingEditor>alex@proservice.ge</managingEditor>
+<webMaster>alex@proservice.ge</webMaster>
+<item>
+ <title>Currency Rates 2021-07-07</title>
+ <link>https://www.nbg.gov.ge/index.php?m=236&amp;lang=geo</link>
+ <description><![CDATA[<table border="0"><tr>
+			<td>AED</td>
+			<td>10 არაბეთის გაერთიანებული საამიროების დირჰამი</td>
+			<td>8.5701</td>
+			<td><img  src="https://www.nbg.gov.ge/images/green.gif"></td>
+			<td>0.0109</td>
+		</tr><tr>
+			<td>AMD</td>
+			<td>1000 სომხური დრამი</td>
+			<td>6.3656</td>
+			<td><img  src="https://www.nbg.gov.ge/images/red.gif"></td>
+			<td>0.0035</td>
+		</tr><tr>
+			<td>AUD</td>
+			<td>1 ავსტრალიური დოლარი</td>
+			<td>2.3860</td>
+			<td><img  src="https://www.nbg.gov.ge/images/red.gif"></td>
+			<td>0.0117</td>
+		</tr><tr>
+			<td>AZN</td>
+			<td>1 აზერბაიჯანული მანათი</td>
+			<td>1.8489</td>
+			<td><img  src="https://www.nbg.gov.ge/images/green.gif"></td>
+			<td>0.0024</td>
+		</tr><tr>
+			<td>BGN</td>
+			<td>1 ბულგარული ლევი</td>
+			<td>1.9065</td>
+			<td><img  src="https://www.nbg.gov.ge/images/green.gif"></td>
+			<td>0.0076</td>
+		</tr><tr>
+			<td>BRL</td>
+			<td>1 ბრაზილიური რიალი</td>
+			<td>0.6178</td>
+			<td><img  src="https://www.nbg.gov.ge/images/green.gif"></td>
+			<td>0.0052</td>
+		</tr><tr>
+			<td>BYN</td>
+			<td>1 ბელარუსული რუბლი</td>
+			<td>1.2422</td>
+			<td><img  src="https://www.nbg.gov.ge/images/red.gif"></td>
+			<td>0.0014</td>
+		</tr><tr>
+			<td>CAD</td>
+			<td>1 კანადური დოლარი</td>
+			<td>2.5482</td>
+			<td><img  src="https://www.nbg.gov.ge/images/green.gif"></td>
+			<td>0.0047</td>
+		</tr><tr>
+			<td>CHF</td>
+			<td>1 შვეიცარიული ფრანკი </td>
+			<td>3.4122</td>
+			<td><img  src="https://www.nbg.gov.ge/images/green.gif"></td>
+			<td>0.0118</td>
+		</tr><tr>
+			<td>CNY</td>
+			<td>10 ჩინური იუანი</td>
+			<td>4.8688</td>
+			<td><img  src="https://www.nbg.gov.ge/images/green.gif"></td>
+			<td>0.0092</td>
+		</tr><tr>
+			<td>CZK</td>
+			<td>10 ჩეხური კრონა</td>
+			<td>1.4561</td>
+			<td><img  src="https://www.nbg.gov.ge/images/green.gif"></td>
+			<td>0.0077</td>
+		</tr><tr>
+			<td>DKK</td>
+			<td>10 დანიური კრონი</td>
+			<td>5.0146</td>
+			<td><img  src="https://www.nbg.gov.ge/images/green.gif"></td>
+			<td>0.0205</td>
+		</tr><tr>
+			<td>EGP</td>
+			<td>10 ეგვიპტური გირვანქა</td>
+			<td>2.0052</td>
+			<td><img  src="https://www.nbg.gov.ge/images/green.gif"></td>
+			<td>0.0022</td>
+		</tr><tr>
+			<td>EUR</td>
+			<td>1 ევრო</td>
+			<td>3.7289</td>
+			<td><img  src="https://www.nbg.gov.ge/images/green.gif"></td>
+			<td>0.0151</td>
+		</tr><tr>
+			<td>GBP</td>
+			<td>1 დიდი ბრიტანეთის გირვანქა სტერლინგი</td>
+			<td>4.3597</td>
+			<td><img  src="https://www.nbg.gov.ge/images/green.gif"></td>
+			<td>0.0093</td>
+		</tr><tr>
+			<td>HKD</td>
+			<td>10 ჰონკონგური დოლარი</td>
+			<td>4.0532</td>
+			<td><img  src="https://www.nbg.gov.ge/images/green.gif"></td>
+			<td>0.0041</td>
+		</tr><tr>
+			<td>HUF</td>
+			<td>100 უნგრული ფორინტი</td>
+			<td>1.0556</td>
+			<td><img  src="https://www.nbg.gov.ge/images/green.gif"></td>
+			<td>0.0099</td>
+		</tr><tr>
+			<td>ILS</td>
+			<td>10 ისრაელის შეკელი</td>
+			<td>9.6502</td>
+			<td><img  src="https://www.nbg.gov.ge/images/green.gif"></td>
+			<td>0.0102</td>
+		</tr><tr>
+			<td>INR</td>
+			<td>100 ინდური რუპია</td>
+			<td>4.2223</td>
+			<td><img  src="https://www.nbg.gov.ge/images/green.gif"></td>
+			<td>0.0191</td>
+		</tr><tr>
+			<td>IRR</td>
+			<td>10000 ირანული რიალი</td>
+			<td>0.7495</td>
+			<td><img  src="https://www.nbg.gov.ge/images/green.gif"></td>
+			<td>0.0009</td>
+		</tr><tr>
+			<td>ISK</td>
+			<td>100 ისლანდიური კრონი</td>
+			<td>2.5349</td>
+			<td><img  src="https://www.nbg.gov.ge/images/green.gif"></td>
+			<td>0.0104</td>
+		</tr><tr>
+			<td>JPY</td>
+			<td>100 იაპონური იენი</td>
+			<td>2.8428</td>
+			<td><img  src="https://www.nbg.gov.ge/images/green.gif"></td>
+			<td>0.0015</td>
+		</tr><tr>
+			<td>KGS</td>
+			<td>100 ყირგიზული სომი</td>
+			<td>3.7171</td>
+			<td><img  src="https://www.nbg.gov.ge/images/green.gif"></td>
+			<td>0.0069</td>
+		</tr><tr>
+			<td>KRW</td>
+			<td>1000 სამხრეთ კორეული ვონი</td>
+			<td>2.7864</td>
+			<td><img  src="https://www.nbg.gov.ge/images/red.gif"></td>
+			<td>0.0012</td>
+		</tr><tr>
+			<td>KWD</td>
+			<td>1 ქუვეითური დინარი</td>
+			<td>10.4543</td>
+			<td><img  src="https://www.nbg.gov.ge/images/green.gif"></td>
+			<td>0.0133</td>
+		</tr><tr>
+			<td>KZT</td>
+			<td>100 ყაზახური ტენგე</td>
+			<td>0.7377</td>
+			<td><img  src="https://www.nbg.gov.ge/images/green.gif"></td>
+			<td>0.0020</td>
+		</tr><tr>
+			<td>MDL</td>
+			<td>10 მოლდოვური ლეი</td>
+			<td>1.7422</td>
+			<td><img  src="https://www.nbg.gov.ge/images/red.gif"></td>
+			<td>0.0009</td>
+		</tr><tr>
+			<td>NOK</td>
+			<td>10 ნორვეგიული კრონი</td>
+			<td>3.6593</td>
+			<td><img  src="https://www.nbg.gov.ge/images/green.gif"></td>
+			<td>0.0181</td>
+		</tr><tr>
+			<td>NZD</td>
+			<td>1 ახალზელანდიური დოლარი</td>
+			<td>2.2308</td>
+			<td><img  src="https://www.nbg.gov.ge/images/red.gif"></td>
+			<td>0.0167</td>
+		</tr><tr>
+			<td>PLN</td>
+			<td>10 პოლონური ზლოტი</td>
+			<td>8.2837</td>
+			<td><img  src="https://www.nbg.gov.ge/images/green.gif"></td>
+			<td>0.0217</td>
+		</tr><tr>
+			<td>QAR</td>
+			<td>10 კატარული რიალი</td>
+			<td>8.4988</td>
+			<td><img  src="https://www.nbg.gov.ge/images/green.gif"></td>
+			<td>0.0311</td>
+		</tr><tr>
+			<td>RON</td>
+			<td>10 რუმინული ლეი</td>
+			<td>7.5688</td>
+			<td><img  src="https://www.nbg.gov.ge/images/green.gif"></td>
+			<td>0.0303</td>
+		</tr><tr>
+			<td>RSD</td>
+			<td>100 სერბიული დინარი</td>
+			<td>3.1711</td>
+			<td><img  src="https://www.nbg.gov.ge/images/green.gif"></td>
+			<td>0.0138</td>
+		</tr><tr>
+			<td>RUB</td>
+			<td>100 რუსული რუბლი</td>
+			<td>4.2874</td>
+			<td><img  src="https://www.nbg.gov.ge/images/green.gif"></td>
+			<td>0.0101</td>
+		</tr><tr>
+			<td>SEK</td>
+			<td>10 შვედური კრონი</td>
+			<td>3.6757</td>
+			<td><img  src="https://www.nbg.gov.ge/images/green.gif"></td>
+			<td>0.0147</td>
+		</tr><tr>
+			<td>SGD</td>
+			<td>1 სინგაპურული დოლარი</td>
+			<td>2.3411</td>
+			<td><img  src="https://www.nbg.gov.ge/images/green.gif"></td>
+			<td>0.0031</td>
+		</tr><tr>
+			<td>TJS</td>
+			<td>10 ტაჯიკური სომონი</td>
+			<td>2.7832</td>
+			<td><img  src="https://www.nbg.gov.ge/images/green.gif"></td>
+			<td>0.0045</td>
+		</tr><tr>
+			<td>TMT</td>
+			<td>10 თურქმენული მანათი</td>
+			<td>8.9937</td>
+			<td><img  src="https://www.nbg.gov.ge/images/green.gif"></td>
+			<td>0.0114</td>
+		</tr><tr>
+			<td>TRY</td>
+			<td>1 თურქული ლირა</td>
+			<td>0.3633</td>
+			<td><img  src="https://www.nbg.gov.ge/images/green.gif"></td>
+			<td>0.0000</td>
+		</tr><tr>
+			<td>UAH</td>
+			<td>10 უკრაინული გრივნა</td>
+			<td>1.1548</td>
+			<td><img  src="https://www.nbg.gov.ge/images/green.gif"></td>
+			<td>0.0008</td>
+		</tr><tr>
+			<td>USD</td>
+			<td>1 აშშ დოლარი</td>
+			<td>3.1478</td>
+			<td><img  src="https://www.nbg.gov.ge/images/green.gif"></td>
+			<td>0.0040</td>
+		</tr><tr>
+			<td>UZS</td>
+			<td>1000 უზბეკური სუმი</td>
+			<td>0.2973</td>
+			<td><img  src="https://www.nbg.gov.ge/images/red.gif"></td>
+			<td>0.0001</td>
+		</tr><tr>
+			<td>ZAR</td>
+			<td>10 სამხრეთაფრიკული რანდი</td>
+			<td>2.2098</td>
+			<td><img  src="https://www.nbg.gov.ge/images/green.gif"></td>
+			<td>0.0060</td>
+		</tr></table>]]></description>
+ <pubDate>Wed, 07 Jul 2021 14:54:47 +0400</pubDate>
+ <guid>https://www.nbg.gov.ge/index.php?m=236&amp;lang=geo&amp;date=2021-07-07</guid>
+</item>
+</channel></rss>
